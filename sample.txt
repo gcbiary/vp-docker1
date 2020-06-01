@@ -1,1 +1,2 @@
 this is first program using the Git through desktop
+edited the program from the git edit
